@@ -1,4 +1,4 @@
-package com.merchant.order.configuration;
+package com.merchant.commodity.configuration;
 
 import com.baomidou.mybatisplus.extension.plugins.PaginationInterceptor;
 import org.springframework.context.annotation.Bean;

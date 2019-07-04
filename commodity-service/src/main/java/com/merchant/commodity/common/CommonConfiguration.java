@@ -1,4 +1,4 @@
-package com.merchant.order.common;
+package com.merchant.commodity.common;
 
 import com.merchant.convert.ConvertManager;
 import com.merchant.convert.impl.ConvertManagerImpl;
