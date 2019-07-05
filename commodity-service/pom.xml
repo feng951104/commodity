@@ -57,7 +57,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<mainClass>com.merchant.order.CommodityApplication</mainClass>
+					<mainClass>com.merchant.CommodityApplication</mainClass>
 					<executable>true</executable>
 				</configuration>
 				<executions>
